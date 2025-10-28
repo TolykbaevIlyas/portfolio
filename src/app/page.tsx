@@ -289,7 +289,7 @@ export default function PortfolioPage() {
 
               <div className="mt-4 text-sm">
                 <div>Email: <a href="mailto:ilyas.tolykbaev04@gmail.com" className="underline">ilyas.tolykbaev04@gmail.com</a></div>
-                <div>Telegram: <a href="https://t.me/TilyasK" className="underline">@TilyasK</a></div>
+                <div>Telegram: <a href="https://t.me/IlyasItFree" className="underline">@IlyasItFree</a></div>
                 <div className="mt-3 flex gap-3">
                   <a href="https://github.com/TolykbaevIlyas" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2"><Github size={16}/> GitHub</a>
                   <a href="https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F%D1%81-%D1%82%D0%BE%D0%BB%D1%8B%D0%BA%D0%B1%D0%B0%D0%B5%D0%B2-3a18a6290/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2"><Linkedin size={16}/> LinkedIn</a>
